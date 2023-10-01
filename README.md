@@ -1,6 +1,6 @@
-# Shop Example using Cucumber
+# Shop BDD and Cucumber
 
-[Cucumber presentation slide](https://github.com/ladyusa/cucumber-atm/blob/master/cucumber.pdf)
+- Sittipong Hemloun 6410401183
 
 ## feature
 <img src="feature.png" width="542" alt="">
